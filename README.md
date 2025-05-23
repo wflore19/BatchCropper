@@ -51,6 +51,12 @@ python -m src\app.py
 
 Option 2: Download executable file for Windows
 
+Step 1. Go to the latest version in 'Releases'  
+Step 2. Download BatchCropper.exe  
+Step 3. Run BatchCropper.exe on Windows
+
+\*\*\* You may get a warning message when running because the app does not have a digital signature for Windows, you can just click 'More Info' then 'Run Anyways'
+
 ## Usage
 
 1. **Launch the application**:
